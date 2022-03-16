@@ -1,0 +1,56 @@
+body {
+    overflow-y: auto !important;
+}
+
+.app {
+    padding: 20px !important;
+    height: auto;
+}
+
+.app .treeItemSelected {
+    background: #D0F1D9;
+}
+
+.cardboard {
+    overflow: visible !important;
+}
+
+.titleText {
+    text-align: center;
+}
+
+.grayLabel {
+    text-align: center;
+    color: #888;
+    margin: 5px 15px;
+}
+
+.loadingText {
+    clear: both;
+    text-align: center;
+    width: 100%;
+    font-size: 15px;
+}
+
+h1 {
+    font-size: 14px;
+    margin: 5px;
+}
+
+.noProjectSelected {
+    margin: 0 auto;
+    width: 200px;
+    padding: 20px;
+    border: 1px solid #AAA;
+    color: #333;
+    text-align: center;
+}
+
+.rui-triggerfield {
+    float: left;
+}
+
+.loadButton {
+    float: left;
+    margin-left: 15px;
+}
